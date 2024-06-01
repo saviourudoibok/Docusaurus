@@ -1,0 +1,7 @@
+{
+  "title": "Docusaurus",
+  "description": "Docusaurus example project",
+  "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/docusaurus/.codesandbox/icon.png",
+  "tags": ["react", "javascript", "docusaurus", "documentation", "starter"],
+  "published": true
+}
